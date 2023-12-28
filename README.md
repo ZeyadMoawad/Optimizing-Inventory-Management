@@ -27,15 +27,19 @@ After the dataset was cleaned and transformed, it was ready to be modeled(using 
 # Data Visualization and Analyis
 Data visualization for the datasets was done in 3 folds using Microsoft Power BI Desktop.
 Based on the business problem, the following report was prepared:
+
 Figure 1 shows visualizations from Sales Overview page
 
 ![Screenshot 2023-12-28 015852](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/assets/96973429/1b3c0fb2-924f-42db-ad0d-391b2a361199)
+
 Figure 2 shows visualizations from Customer Details page
 
 ![Screenshot 2023-12-28 014913](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/assets/96973429/6c0e29bb-ba8c-43ae-9f3a-375069f990e2)
+
 Figure 3 shows visualizations from Product Details page
 
 ![Screenshot 2023-12-28 015920](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/assets/96973429/498297cb-b30f-48f6-a5c4-6741d776ba72)
+
 # Shareable Link
 You can interact with the report here:
 [View Report]()
