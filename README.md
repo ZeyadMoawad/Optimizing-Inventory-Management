@@ -1,15 +1,14 @@
 # Optimizing Inventory Management
 ![Screenshot 2023-12-28 015852](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/assets/96973429/fa370be0-bea7-4bc0-9f76-89692d596ae7) 
 # Table of Contents
-- [Overview]()
-- [Problem Statement]()
-- [Data Sourcing]()
-- [Data Preparation]()
-- [Data Modeling]()
-- [Data Visualization]()
-- [Data Analysis & Insights]()
-- [Shareable link]()
-- [Demo]()
+- [Overview](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#overview)
+- [Problem Statement](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#problem-statement)
+- [Data Sourcing](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#data-sourcing)
+- [Data Preparation](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#data-preparation)
+- [Data Modeling](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#data-modeling)
+- [Data Analysis & Insights](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#data-visualization-and-analyis)
+- [Shareable link](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#shareable-link)
+- [Demo](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/tree/main#demo)
 # Overview
 SellCheapy Retail is a chain of department stores that sells a wide range of products, including bikes and different components. Despite having a large customer base, the company has been struggling to increase sales in recent years. The management team is looking to use data analysis to understand customer spending patterns and make changes to their sales and marketing strategies to improve performance.
 # Problem Statement
