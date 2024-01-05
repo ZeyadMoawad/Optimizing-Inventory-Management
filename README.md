@@ -43,5 +43,6 @@ Figure 3 shows visualizations from Product Details page
 You can interact with the report here:
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiZTBjNmNjMDYtODhhYy00MTM4LTg1NTktYjdlN2MxNjc0MTgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 # Demo
-https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/assets/96973429/54581f16-a992-412c-b738-0bc4a2a6950d
+https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/assets/96973429/95739e6e-2fd6-42bd-bca3-37050c98dde5
+
 
