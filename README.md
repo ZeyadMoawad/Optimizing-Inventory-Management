@@ -14,9 +14,9 @@ SellCheapy Retail is a chain of department stores that sells a wide range of pro
 # Problem Statement
 Based on the request that was made from the management team we are following the user stories that were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
 # Data Sourcing
-- The data set used for this analysis was sourced from [AdventureWorks sample databases]()
-- The additional data set used for this analysis is available at: [Sales Budget]()
-- The query used to update the database can be found at [Update Query]()
+- The data set used for this analysis was sourced from [AdventureWorks sample databases](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
+- The additional data set used for this analysis is available at: [Sales Budget](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/blob/main/Sales%20Budget.xlsx)
+- The query used to update the database can be found at [Update Query](https://github.com/ZeyadMoawad/Optimizing-Inventory-Management/blob/main/Optimizing%20Inventory%20Management.sql)
 # Data Preparation
 Data cleaning and transformation was done in Microsoft SQL Server and the data sets was loaded into Microsoft Power BI Desktop for modeling.
 # Data Modeling
