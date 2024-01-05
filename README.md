@@ -41,5 +41,5 @@ Figure 3 shows visualizations from Product Details page
 
 # Shareable Link
 You can interact with the report here:
-[View Report]()
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiZTBjNmNjMDYtODhhYy00MTM4LTg1NTktYjdlN2MxNjc0MTgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 # Demo
